@@ -4,8 +4,10 @@
 resolution = true
 skip-lint = false
 
+
 [programs.devnet]
 solana_key_storage = "2FCmh5tZDnu7V1wFjwj6JSuGs2nVkBViUKh8zkXYiRQF"
+
 
 [registry]
 url = "https://api.apr.dev"
